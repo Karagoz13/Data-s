@@ -1,0 +1,25 @@
+Name : Zoo
+"Adress : Lionaria, Madagaskar"
+Phone : 777777
+Email : lionariaschool@madagaskar.mm
+Number of student : 10
+Number of teachers : 3
+ 
+Students 
+name,familyname,age,gender,nationality,school,subject
+Alex,Lion,16,boy,Africa,Zoo,"['Math', 'Physics']"
+Marty,Zebra,14,boy,Africa,Zoo,['Biology']
+Melman,Jiraff,11,boy,Africa,Zoo,['Physics']
+Julien,Ring-tailed lemur,18,boy,Madagaskar,Zoo,['Story']
+Gloria,Hippopotamus,14,girl,Africa,Zoo,['Geography']
+Maurice,Asistent,11,boy,Madagaskar,Zoo,['Physics']
+Mort,Mouse lemur,8,girl,Madagaskar,Zoo,['Biology']
+Rico,Pingvinus,11,boy,Arctica,Zoo,['Story']
+Mason,Primatus,9,boy,Tayland,Zoo,['Himiya']
+Phil,Primatus,10,boy,Tayland,Zoo,['Physics']
+ 
+Teachers 
+name,familyname,age,gender,nationality,school,subject
+Kowalski,Pingvin,20,boy,Arktika,Zoo,"['Geography', 'Himiya']"
+Nana,Granny,90,girl,USA,Zoo,"['Story', 'Math']"
+Shkipper,Pingvinovich,22,boy,Arktika,Zoo,"['Biology', 'Physics']"

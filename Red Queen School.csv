@@ -1,0 +1,24 @@
+Name : Red Queen School
+"Adress : Vashingtom, USA"
+Phone : 999999
+Email : stranachudes@Alisa.gg
+Number of student : 10
+Number of teachers : 2
+ 
+Students 
+name,familyname,age,gender,nationality,school,subject
+Alisa,Happy,7,girl,USA,Red Queen School,"['Math', 'Physics']"
+Cat,Cheshire,10,boy,USA,Red Queen School,['Biology']
+Gallant,Hatter,35,boy,USA,Red Queen School,['Physics']
+Griffin,Lion,15,boy,USA,Red Queen School,['Story']
+Turtle,Quasi,18,girl,USA,Red Queen School,['Geography']
+Rabbit,March,7,boy,USA,Red Queen School,['Physics']
+Sonya,Sleep,8,girl,USA,Red Queen School,['Biology']
+Jack,Black,18,boy,USA,Red Queen School,['Story']
+Jacker,Black,18,boy,USA,Red Queen School,['Story']
+Jocer,Black,18,boy,USA,Red Queen School,['Story']
+ 
+Teachers 
+name,familyname,age,gender,nationality,school,subject
+Caterpillar,Blue,110,girl,Turkey,Red Queen School,"['Geography', 'Math', 'Biology', 'Physics']"
+Queen,Red,70,girl,USA,Red Queen School,"['Story', 'Math']"
